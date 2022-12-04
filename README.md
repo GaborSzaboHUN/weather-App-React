@@ -1,1 +1,1 @@
-# weather-App-React
+No starter code is provided. Start from scratch!
