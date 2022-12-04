@@ -4,7 +4,7 @@ My first weather application made with react. Made as part of a team effort. I w
 
 ### How to open the project:
 - in VScode open the terminal
-- Make sure you have the latest node installed, or at least 15.6 version (or higher) <em>node --v</em>
-- open "weather-app" folder if you somewhere else <em>cd weather-app</em>
-- install the dependencies <em>npm install</em>
+- Make sure you have the latest node installed, or at least 15.6 version (or higher) <code>node --v</code>
+- open "weather-app" folder if you somewhere else <code>cd weather-app</code>
+- install the dependencies <code>npm install</code>
 - launch the project <code>npm start<code>
